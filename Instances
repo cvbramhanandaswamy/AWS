@@ -13,12 +13,15 @@ password:WdFh-auyQ9kPqW@r8in7PiI0ZZGMj7Q@
 * after 2/2 check pass select our
 * linux commands to install a web server
 *commands for instance
-1.sudo su-
+1.sudo su -
 2.yum update -y
 3.yum install httpd -y
 4.service httpd -y
 ------- EC2 instance creation using ub-AMI --------
 Ubuntu commands:
-1.sudo su-
+1.sudo su -
 2.apt-get update -y
 3.apt-get install apache2 -y
+------- Website Hosting using winscp Ubuntu Instance --------
+-----DataBase Instance-----
+1. 40 DB instance
