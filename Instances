@@ -16,4 +16,9 @@ password:WdFh-auyQ9kPqW@r8in7PiI0ZZGMj7Q@
 1.sudo su-
 2.yum update -y
 3.yum install httpd -y
-4.service httpd 
+4.service httpd -y
+------- EC2 instance creation using ub-AMI --------
+Ubuntu commands:
+1.sudo su-
+2.apt-get update -y
+3.apt-get install apache2 -y
